@@ -19,5 +19,8 @@ def saludar(nombre):
 def depedirse(nombre):
     return "chao " + nombre + "ten un buen dia"
 
-
-    
+print(suma(1,1))
+print()
+print(divide(1,2))
+print()
+print(saludar("Daniel Vargas"))
