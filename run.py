@@ -4,3 +4,6 @@ if True:
  print("hola")
 else:
  print("chao")
+print()
+print(2*10)
+print()
